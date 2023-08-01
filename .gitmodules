@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "clinDR"]
-	path = clinDR
-	url = https://github.com/cran/clinDR
 [submodule "R2OpenBUGS"]
 	path = R2OpenBUGS
 	url = https://github.com/cran/R2OpenBUGS
+[submodule "clinDR"]
+	path = clinDR
+	url = https://github.com/cran/clinDR
